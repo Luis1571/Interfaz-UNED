@@ -1,0 +1,113 @@
+#logo{
+    width: 50px;  
+}
+#ConectaR{
+    color: red;
+}
+#lupa-bell{
+    width: 10px;
+    color: #00533f;
+}
+#inputText{
+    border-width: 1px;
+  border-style: solid;
+  border-color: #00533f;
+}
+#arriba{
+  background-color: #d9d9d9;  
+}
+#arriba2{
+    background-color: #898585;
+    color:white;
+}
+#arriba3 {
+    background-color:#00533f;
+    color:white;
+}
+
+ #enlaceVerdes{
+    background-color:#00533f;
+    color:white;
+    height: 80px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+
+ }
+ #carouselExampleIndicators{
+    margin-bottom: 20px;
+ }
+
+#BarraEscuchar, #fondoGris{
+    background-color: #b7b7b7;
+}
+#blanco-sub{
+    color: white;
+}
+
+#espaciado{margin-bottom: 20px;}
+
+#letras{
+    font-weight: bold;
+}
+#borderDiscontinuo{
+   /* border-bottom-style:dashed; */
+   font-weight: bold;
+    border-bottom-style: dotted;
+   border-width: 1px;
+   border-color: #2a2f2d;
+   font-family: verdana, arial;
+   font-size: 10pt;
+}
+#azul, #azul2{
+    color: #0099ff;
+    
+}
+#icon{
+    width: 30px; 
+}
+#iconMini{
+    width: 20px; 
+    color:#4374b3 ;
+}
+#iconMini3{
+    color:#00533f;
+}
+#negro{
+background-color: #2a2f2d;
+}
+
+  /*#carousel{
+margin-left: 15px;
+margin-right: 15px;
+    margin-left: 15px;
+    margin-right: 100px;
+    margin-top: 5px 
+    
+} */
+#contactaUNED{
+    border-color: #00533f;
+    font-weight: bold;
+}
+#contactaUNED2{
+    color: #2a2f2d;
+}
+#arribaSm{
+    background-color: white;
+}
+#fondoImg{
+    background-image:url("../img/fondo1.jpg");
+    height: 150px;
+}
+#fondoImg2{
+    background-image:url("../img/fondo2.jpg");
+    height: 150px;
+    
+}
+#fondoImg3{
+    background-image:url("../img/fondo3.jpg");
+    height: 150px;
+}
+#cuadroInterior{
+    height: 70px;
+}
